@@ -1,0 +1,13 @@
+.card{
+    opacity: .5;
+    transition: all 1.5s;
+    border: none;
+    &:hover{
+        opacity: 1;
+        scale:.8
+
+    }
+}
+.statistics{
+    list-style-type: none;
+}
